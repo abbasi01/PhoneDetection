@@ -1,0 +1,32 @@
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\appsettings.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Practical Assignment.exe
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Practical Assignment.deps.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Practical Assignment.runtimeconfig.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Practical Assignment.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Practical Assignment.pdb
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.csproj.AssemblyReference.cache
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.AssemblyInfoInputs.cache
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.AssemblyInfo.cs
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets\msbuild.Practical Assignment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets\msbuild.build.Practical Assignment.props
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Practical Assignment.props
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Practical Assignment.props
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\scopedcss\bundle\Practical Assignment.styles.css
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.csproj.CopyComplete
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\refint\Practical Assignment.dll
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.pdb
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\Practical Assignment.genruntimeconfig.cache
+C:\Users\ABBASIH\source\repos\PhoneDetection\Practical Assignment\obj\Debug\net8.0\ref\Practical Assignment.dll
